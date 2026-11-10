@@ -1,4 +1,4 @@
 # githublearn
 My first repo :)
 <br>
-Author: Lakhmi
+Author: Lakhmi Nijar
